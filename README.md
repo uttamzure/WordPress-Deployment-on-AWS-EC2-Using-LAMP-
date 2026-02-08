@@ -1,1 +1,1 @@
-# WordPress-Deployment-on-AWS-EC2-Using-LAMP-
+# WordPress_Deployment_on_AWS_EC2_Using_LAMP
