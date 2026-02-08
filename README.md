@@ -124,9 +124,8 @@ sudo yum install php8.4-mysqlnd.x86_64
 ### Step 8: Hit the public ip in the browser
 
 **1. Click on Continue**
-
 ![Reference Image](/image/continue.png)
-
+---
 **2. Click on Let,s go**
 ![Reference Image](/image/let's%20go.png)
 **3. Fill the information and click on Submit**
@@ -143,19 +142,17 @@ sudo yum install php8.4-mysqlnd.x86_64
 ---
 **7. Deployed Wordpress Successfully**
 ![Reference Image](/image/Welcome_wordpress.png)
-
+---
 **8. Create Pages In Wordpress Means Create Posts**
-
 ![Reference Image](/image/publish%201.png)
-
-**9. ublish Our Post**
-
+---
+**9. Publish Our Post**
 ![Reference Image](/image/publish%202.png)
-
+---
 
 **10. Table automatically added to Database**
 ![Reference Image](/image/db_table.png)
-
+---
 
 ### 🔴 **Summary**
 
