@@ -148,7 +148,7 @@ sudo yum install php8.4-mysqlnd.x86_64
 
 ![Reference Image](/image/publish%201.png)
 
-P**9. ublish Our Post**
+**9. ublish Our Post**
 
 ![Reference Image](/image/publish%202.png)
 
